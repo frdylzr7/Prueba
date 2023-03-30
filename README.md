@@ -1,2 +1,1 @@
-# Prueba
-repositorio de prueba 2023
+# Repositorio de prueba
